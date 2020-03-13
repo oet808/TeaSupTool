@@ -10,8 +10,8 @@ my multiple choice questions (currently all in Word documents) into a text forma
 can import. 
 
 **Background**: I just finished preparing for the mid-term exam when all classes were called off. 
-So now I need to get the exams question online. but converting multiple choice questions
-from a word document into Blackboard content seems to be a tedious click and drop with 
+So now I need to get the exams question online. But converting multiple choice questions
+from a Word document into Blackboard content seems to be a tedious task with click and drop +  
 copy/paste. The other option is to put the question and answers into a spreadsheet table 
 (a plain text with tabs). Since neither option looked too exciting to me, I wanted to get
 a little Python support for myself to start the process of putting my quizzes, and at least
